@@ -1,0 +1,8 @@
+
+images:
+  ttt:
+    units:
+      - floor: .%eclipse-temurin//8-jre-jammy
+        sources: []
+        build: |
+          ls -l > /dest/ls-output
