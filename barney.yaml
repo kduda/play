@@ -18,3 +18,7 @@ images:
         sources: []
         build: |
           ls -l > /dest/ls-output
+
+  hello:
+    units:
+      - build: echo "hello world" > /dest/greeting
