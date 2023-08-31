@@ -3,11 +3,18 @@ images:
 
   jammy:
     units:
-      - image: barney.ci/docker%eclipse-temurin//8-jre-jammy
+      - image: barney.ci/docker%image/eclipse-temurin//8-jre-jammy
 
-  ttt:
+  case1:
     units:
       - floor: .%jammy
+        sources: []
+        build: |
+          ls -l > /dest/ls-output
+
+  case2:
+    units:
+      - floor: barney.ci/docker%image/eclipse-temurin//8-jre-jammy
         sources: []
         build: |
           ls -l > /dest/ls-output

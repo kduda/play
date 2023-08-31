@@ -1,0 +1,25 @@
+total 28
+-rwxrwxr-x.    1 root   root    1182 Aug 16 15:39 __cacert_entrypoint.sh
+lrwxrwxrwx.    1 root   root       7 Aug 31 21:18 bin -> usr/bin
+drwxr-xr-x.    1 root   root       0 Apr 18  2022 boot
+drwxrwxrwx.    1 root   root      18 Aug 31 21:19 dest
+drwxr-xr-x.    5 root   root     320 Aug 31 21:19 dev
+drwxr-xr-x.    1 root   root    1340 Aug 31 21:18 etc
+drwxr-xr-x.    1 root   root       0 Apr 18  2022 home
+lrwxrwxrwx.    1 root   root       7 Aug 31 21:18 lib -> usr/lib
+lrwxrwxrwx.    1 root   root       9 Aug 31 21:18 lib32 -> usr/lib32
+lrwxrwxrwx.    1 root   root       9 Aug 31 21:18 lib64 -> usr/lib64
+lrwxrwxrwx.    1 root   root      10 Aug 31 21:18 libx32 -> usr/libx32
+drwxr-xr-x.    1 root   root       0 Aug  4 02:02 media
+drwxr-xr-x.    1 root   root       0 Aug  4 02:02 mnt
+drwxr-xr-x.    1 root   root       8 Aug 31 21:18 opt
+dr-xr-xr-x. 1004 nobody nogroup    0 Aug 31 21:19 proc
+drwx------.    1 root   root      50 Aug 31 21:18 root
+drwxr-xr-x.    2 root   root      40 Aug 31 21:19 run
+lrwxrwxrwx.    1 root   root       8 Aug 31 21:18 sbin -> usr/sbin
+drwxr-xr-x.    1 root   root       0 Aug 31 21:18 src
+drwxr-xr-x.    1 root   root       0 Aug  4 02:02 srv
+drwxr-xr-x.    1 root   root       0 Apr 18  2022 sys
+drwxrwxrwt.    2 root   root      40 Aug 31 21:19 tmp
+drwxr-xr-x.    1 root   root     116 Aug 31 21:18 usr
+drwxr-xr-x.    1 root   root      90 Aug 31 21:18 var
