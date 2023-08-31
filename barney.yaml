@@ -3,7 +3,7 @@ images:
 
   jammy:
     units:
-      - image: barney.ci/docker%eclipse-temurin//8-jre-jammy
+      - image: barney.ci/docker%image/eclipse-temurin//8-jre-jammy
 
   ttt:
     units:
